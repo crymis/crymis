@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crymis
+- 👋 Hi, I’m Dan (@crymis)
 - 👀 I’m interested in developing Web applications, especially from the Frontend perspective!
 - 🌱 I’m currently learning how to be a dad.
 - 💞️ I’m looking to collaborate on some project ideas that I have.
